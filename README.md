@@ -1,4 +1,4 @@
-# imdb_database_to_json
+# Scrap movie contents from IMDB
 With this small java project you can scrap imdb movies to a json file with a caveat ...
 
 Because im too lazy to modify the program you have to manualy open the file with a good text editor and then, 
